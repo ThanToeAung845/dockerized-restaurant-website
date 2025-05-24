@@ -30,11 +30,11 @@ cd restaurant-website
 docker build -t restaurant-website .
 
 # Run the Docker container
-docker run -d -p 8080:80 restaurant-website
-
+docker run -d -p 8080:80 restaurant-website 
+```
 Then open your browser and visit: http://localhost:8080
 
-👥 Contributors
+## 👥 Contributors
 This project was developed by our first-year group as part of a web development course. Special thanks to all team members for their contributions.
 
 
